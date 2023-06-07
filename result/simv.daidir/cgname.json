@@ -1,0 +1,74 @@
+{
+    "_vcs_unit__3626241804": [
+        "_vcs_unit__3626241804",
+        "wcMCQ",
+        "module",
+        1
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        2
+    ],
+    "sdrc_bank_fsm": [
+        "sdrc_bank_fsm",
+        "ChjVu",
+        "module",
+        3
+    ],
+    "sdrc_top": [
+        "sdrc_top",
+        "NTNU2",
+        "module",
+        4
+    ],
+    "sync_fifo": [
+        "sync_fifo",
+        "gWQCM",
+        "module",
+        5
+    ],
+    "mt48lc2m32b2": [
+        "mt48lc2m32b2",
+        "a3mSN",
+        "module",
+        6
+    ],
+    "mt48lc8m8a2": [
+        "mt48lc8m8a2",
+        "Pj51K",
+        "module",
+        7
+    ],
+    "intf_WB_G2": [
+        "intf_WB_G2",
+        "HIQtA",
+        "module",
+        8
+    ],
+    "intf_SRAM_G2": [
+        "intf_SRAM_G2",
+        "Bu63C",
+        "module",
+        9
+    ],
+    "testcase": [
+        "testcase",
+        "PATxq",
+        "module",
+        10
+    ],
+    "tb_top": [
+        "tb_top",
+        "jdPWL",
+        "module",
+        11
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        12
+    ]
+}
